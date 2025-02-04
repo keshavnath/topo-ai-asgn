@@ -55,3 +55,10 @@ All the packages needed to run this API
 - **Description**: Displays bar and pie charts based on the CSV data, showing membership type distribution, activity distribution, and revenue distribution.
 - Sample below
 - Graphs ![graphs](./img/visuals-ep.png)
+
+# Issues
+
+1) No testing implemented
+2) Minimal logging
+3) Graphs are static
+4) Code will struggle with more complex PDFs
