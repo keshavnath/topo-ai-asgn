@@ -1,0 +1,1268 @@
+{
+  "csv": [
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-21",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M001",
+      "Membership_Type": "Basic",
+      "Revenue": 113.82
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-05",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M002",
+      "Membership_Type": "VIP",
+      "Revenue": 104.74
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-14",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M003",
+      "Membership_Type": "Basic",
+      "Revenue": 23.12
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-20",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M004",
+      "Membership_Type": "Basic",
+      "Revenue": 110.24
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-15",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M005",
+      "Membership_Type": "VIP",
+      "Revenue": 123.32
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-23",
+      "Duration (Minutes)": 60,
+      "Location": "Westside",
+      "Membership_ID": "M006",
+      "Membership_Type": "Premium",
+      "Revenue": 48.9
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-04",
+      "Duration (Minutes)": 90,
+      "Location": "Eastside",
+      "Membership_ID": "M007",
+      "Membership_Type": "Basic",
+      "Revenue": 23.54
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-09",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M008",
+      "Membership_Type": "Basic",
+      "Revenue": 85.07
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-18",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M009",
+      "Membership_Type": "Premium",
+      "Revenue": 90.83
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-22",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M010",
+      "Membership_Type": "Basic",
+      "Revenue": 147.93
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-13",
+      "Duration (Minutes)": 90,
+      "Location": "Downtown",
+      "Membership_ID": "M011",
+      "Membership_Type": "Premium",
+      "Revenue": 99.0
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-12",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M012",
+      "Membership_Type": "Premium",
+      "Revenue": 103.82
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-21",
+      "Duration (Minutes)": 120,
+      "Location": "Westside",
+      "Membership_ID": "M013",
+      "Membership_Type": "Basic",
+      "Revenue": 32.88
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-30",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M014",
+      "Membership_Type": "VIP",
+      "Revenue": 105.85
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-27",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M015",
+      "Membership_Type": "Basic",
+      "Revenue": 66.16
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-30",
+      "Duration (Minutes)": 120,
+      "Location": "Westside",
+      "Membership_ID": "M016",
+      "Membership_Type": "VIP",
+      "Revenue": 39.77
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-29",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M017",
+      "Membership_Type": "VIP",
+      "Revenue": 30.0
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-24",
+      "Duration (Minutes)": 120,
+      "Location": "Eastside",
+      "Membership_ID": "M018",
+      "Membership_Type": "VIP",
+      "Revenue": 114.58
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-13",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M019",
+      "Membership_Type": "Premium",
+      "Revenue": 149.63
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-16",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M020",
+      "Membership_Type": "Basic",
+      "Revenue": 130.55
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-06",
+      "Duration (Minutes)": 120,
+      "Location": "Westside",
+      "Membership_ID": "M021",
+      "Membership_Type": "VIP",
+      "Revenue": 93.5
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-20",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M022",
+      "Membership_Type": "Premium",
+      "Revenue": 145.95
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-24",
+      "Duration (Minutes)": 90,
+      "Location": "Downtown",
+      "Membership_ID": "M023",
+      "Membership_Type": "Basic",
+      "Revenue": 117.6
+    },
+    {
+      "Activity": "Tennis Court",
+      "Date": "2024-01-10",
+      "Duration (Minutes)": 90,
+      "Location": "Eastside",
+      "Membership_ID": "M024",
+      "Membership_Type": "Premium",
+      "Revenue": 73.52
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-25",
+      "Duration (Minutes)": 90,
+      "Location": "Eastside",
+      "Membership_ID": "M025",
+      "Membership_Type": "Basic",
+      "Revenue": 131.87
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-17",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M026",
+      "Membership_Type": "VIP",
+      "Revenue": 31.4
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-31",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M027",
+      "Membership_Type": "VIP",
+      "Revenue": 93.85
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-04",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M028",
+      "Membership_Type": "Premium",
+      "Revenue": 43.52
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-31",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M029",
+      "Membership_Type": "Basic",
+      "Revenue": 112.47
+    },
+    {
+      "Activity": "Tennis Court",
+      "Date": "2024-01-25",
+      "Duration (Minutes)": 60,
+      "Location": "Westside",
+      "Membership_ID": "M030",
+      "Membership_Type": "Basic",
+      "Revenue": 102.37
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-17",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M031",
+      "Membership_Type": "VIP",
+      "Revenue": 145.01
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-10",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M032",
+      "Membership_Type": "Premium",
+      "Revenue": 71.33
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-08",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M033",
+      "Membership_Type": "Basic",
+      "Revenue": 57.33
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-08",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M034",
+      "Membership_Type": "Basic",
+      "Revenue": 109.1
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-03",
+      "Duration (Minutes)": 60,
+      "Location": "Westside",
+      "Membership_ID": "M035",
+      "Membership_Type": "Basic",
+      "Revenue": 19.92
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-22",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M036",
+      "Membership_Type": "Premium",
+      "Revenue": 85.49
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-26",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M037",
+      "Membership_Type": "Premium",
+      "Revenue": 36.66
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-14",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M038",
+      "Membership_Type": "Premium",
+      "Revenue": 67.55
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-21",
+      "Duration (Minutes)": 90,
+      "Location": "Downtown",
+      "Membership_ID": "M039",
+      "Membership_Type": "VIP",
+      "Revenue": 18.49
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-08",
+      "Duration (Minutes)": 60,
+      "Location": "Westside",
+      "Membership_ID": "M040",
+      "Membership_Type": "Basic",
+      "Revenue": 85.08
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-06",
+      "Duration (Minutes)": 30,
+      "Location": "Westside",
+      "Membership_ID": "M041",
+      "Membership_Type": "Premium",
+      "Revenue": 44.97
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-26",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M042",
+      "Membership_Type": "VIP",
+      "Revenue": 17.08
+    },
+    {
+      "Activity": "Tennis Court",
+      "Date": "2024-01-30",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M043",
+      "Membership_Type": "Basic",
+      "Revenue": 66.9
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-28",
+      "Duration (Minutes)": 30,
+      "Location": "Westside",
+      "Membership_ID": "M044",
+      "Membership_Type": "Premium",
+      "Revenue": 33.05
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-09",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M045",
+      "Membership_Type": "Premium",
+      "Revenue": 69.22
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-07",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M046",
+      "Membership_Type": "Premium",
+      "Revenue": 145.62
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-11",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M047",
+      "Membership_Type": "Basic",
+      "Revenue": 91.78
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-31",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M048",
+      "Membership_Type": "VIP",
+      "Revenue": 129.19
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-03",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M049",
+      "Membership_Type": "VIP",
+      "Revenue": 66.53
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-20",
+      "Duration (Minutes)": 90,
+      "Location": "Westside",
+      "Membership_ID": "M050",
+      "Membership_Type": "Basic",
+      "Revenue": 68.69
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-07",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M051",
+      "Membership_Type": "VIP",
+      "Revenue": 43.42
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-22",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M052",
+      "Membership_Type": "VIP",
+      "Revenue": 74.01
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-15",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M053",
+      "Membership_Type": "VIP",
+      "Revenue": 20.26
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-09",
+      "Duration (Minutes)": 60,
+      "Location": "Westside",
+      "Membership_ID": "M054",
+      "Membership_Type": "Basic",
+      "Revenue": 133.32
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-10",
+      "Duration (Minutes)": 90,
+      "Location": "Eastside",
+      "Membership_ID": "M055",
+      "Membership_Type": "Basic",
+      "Revenue": 126.72
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-26",
+      "Duration (Minutes)": 90,
+      "Location": "Eastside",
+      "Membership_ID": "M056",
+      "Membership_Type": "VIP",
+      "Revenue": 103.5
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-04",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M057",
+      "Membership_Type": "Basic",
+      "Revenue": 26.16
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-18",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M058",
+      "Membership_Type": "Basic",
+      "Revenue": 49.45
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-11",
+      "Duration (Minutes)": 90,
+      "Location": "Downtown",
+      "Membership_ID": "M059",
+      "Membership_Type": "Basic",
+      "Revenue": 80.76
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-03",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M060",
+      "Membership_Type": "VIP",
+      "Revenue": 126.11
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-11",
+      "Duration (Minutes)": 120,
+      "Location": "Eastside",
+      "Membership_ID": "M061",
+      "Membership_Type": "Basic",
+      "Revenue": 32.62
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-23",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M062",
+      "Membership_Type": "Premium",
+      "Revenue": 25.66
+    },
+    {
+      "Activity": "Tennis Court",
+      "Date": "2024-01-02",
+      "Duration (Minutes)": 30,
+      "Location": "Westside",
+      "Membership_ID": "M063",
+      "Membership_Type": "Premium",
+      "Revenue": 70.17
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-12",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M064",
+      "Membership_Type": "Basic",
+      "Revenue": 39.41
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-04",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M065",
+      "Membership_Type": "Premium",
+      "Revenue": 146.34
+    },
+    {
+      "Activity": "Tennis Court",
+      "Date": "2024-01-28",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M066",
+      "Membership_Type": "Basic",
+      "Revenue": 133.4
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-24",
+      "Duration (Minutes)": 60,
+      "Location": "Westside",
+      "Membership_ID": "M067",
+      "Membership_Type": "Premium",
+      "Revenue": 122.31
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-06",
+      "Duration (Minutes)": 30,
+      "Location": "Westside",
+      "Membership_ID": "M068",
+      "Membership_Type": "VIP",
+      "Revenue": 63.56
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-08",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M069",
+      "Membership_Type": "Basic",
+      "Revenue": 58.95
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-01",
+      "Duration (Minutes)": 90,
+      "Location": "Downtown",
+      "Membership_ID": "M070",
+      "Membership_Type": "VIP",
+      "Revenue": 65.79
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-31",
+      "Duration (Minutes)": 120,
+      "Location": "Eastside",
+      "Membership_ID": "M071",
+      "Membership_Type": "Premium",
+      "Revenue": 99.81
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-27",
+      "Duration (Minutes)": 30,
+      "Location": "Westside",
+      "Membership_ID": "M072",
+      "Membership_Type": "VIP",
+      "Revenue": 141.49
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-06",
+      "Duration (Minutes)": 120,
+      "Location": "Westside",
+      "Membership_ID": "M073",
+      "Membership_Type": "VIP",
+      "Revenue": 15.36
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-24",
+      "Duration (Minutes)": 30,
+      "Location": "Westside",
+      "Membership_ID": "M074",
+      "Membership_Type": "Premium",
+      "Revenue": 94.87
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-29",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M075",
+      "Membership_Type": "VIP",
+      "Revenue": 45.66
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-17",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M076",
+      "Membership_Type": "VIP",
+      "Revenue": 60.99
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-30",
+      "Duration (Minutes)": 30,
+      "Location": "Eastside",
+      "Membership_ID": "M077",
+      "Membership_Type": "Premium",
+      "Revenue": 102.87
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-29",
+      "Duration (Minutes)": 90,
+      "Location": "Westside",
+      "Membership_ID": "M078",
+      "Membership_Type": "Premium",
+      "Revenue": 103.37
+    },
+    {
+      "Activity": "Tennis Court",
+      "Date": "2024-01-23",
+      "Duration (Minutes)": 120,
+      "Location": "Eastside",
+      "Membership_ID": "M079",
+      "Membership_Type": "Premium",
+      "Revenue": 36.86
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-24",
+      "Duration (Minutes)": 30,
+      "Location": "Westside",
+      "Membership_ID": "M080",
+      "Membership_Type": "Basic",
+      "Revenue": 66.85
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-10",
+      "Duration (Minutes)": 90,
+      "Location": "Westside",
+      "Membership_ID": "M081",
+      "Membership_Type": "Basic",
+      "Revenue": 120.01
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-15",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M082",
+      "Membership_Type": "Premium",
+      "Revenue": 81.56
+    },
+    {
+      "Activity": "Swimming Class",
+      "Date": "2024-01-03",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M083",
+      "Membership_Type": "Premium",
+      "Revenue": 23.07
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-10",
+      "Duration (Minutes)": 30,
+      "Location": "Downtown",
+      "Membership_ID": "M084",
+      "Membership_Type": "Basic",
+      "Revenue": 30.63
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-16",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M085",
+      "Membership_Type": "VIP",
+      "Revenue": 73.76
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-23",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M086",
+      "Membership_Type": "Premium",
+      "Revenue": 65.95
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-23",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M087",
+      "Membership_Type": "Basic",
+      "Revenue": 118.98
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-26",
+      "Duration (Minutes)": 60,
+      "Location": "Downtown",
+      "Membership_ID": "M088",
+      "Membership_Type": "VIP",
+      "Revenue": 17.03
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-15",
+      "Duration (Minutes)": 90,
+      "Location": "Westside",
+      "Membership_ID": "M089",
+      "Membership_Type": "Basic",
+      "Revenue": 103.46
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-20",
+      "Duration (Minutes)": 120,
+      "Location": "Downtown",
+      "Membership_ID": "M090",
+      "Membership_Type": "VIP",
+      "Revenue": 126.28
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-24",
+      "Duration (Minutes)": 60,
+      "Location": "Eastside",
+      "Membership_ID": "M091",
+      "Membership_Type": "Premium",
+      "Revenue": 46.29
+    },
+    {
+      "Activity": "Climbing Wall",
+      "Date": "2024-01-09",
+      "Duration (Minutes)": 90,
+      "Location": "Westside",
+      "Membership_ID": "M092",
+      "Membership_Type": "VIP",
+      "Revenue": 97.74
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-03",
+      "Duration (Minutes)": 90,
+      "Location": "Westside",
+      "Membership_ID": "M093",
+      "Membership_Type": "VIP",
+      "Revenue": 42.83
+    },
+    {
+      "Activity": "Pool",
+      "Date": "2024-01-29",
+      "Duration (Minutes)": 60,
+      "Location": "Westside",
+      "Membership_ID": "M094",
+      "Membership_Type": "VIP",
+      "Revenue": 29.37
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-23",
+      "Duration (Minutes)": 120,
+      "Location": "Westside",
+      "Membership_ID": "M095",
+      "Membership_Type": "Basic",
+      "Revenue": 18.99
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-18",
+      "Duration (Minutes)": 120,
+      "Location": "Westside",
+      "Membership_ID": "M096",
+      "Membership_Type": "Premium",
+      "Revenue": 18.72
+    },
+    {
+      "Activity": "Gym",
+      "Date": "2024-01-29",
+      "Duration (Minutes)": 120,
+      "Location": "Westside",
+      "Membership_ID": "M097",
+      "Membership_Type": "VIP",
+      "Revenue": 129.94
+    },
+    {
+      "Activity": "Dance Class",
+      "Date": "2024-01-01",
+      "Duration (Minutes)": 120,
+      "Location": "Eastside",
+      "Membership_ID": "M098",
+      "Membership_Type": "Premium",
+      "Revenue": 115.49
+    },
+    {
+      "Activity": "Personal Training",
+      "Date": "2024-01-24",
+      "Duration (Minutes)": 90,
+      "Location": "Westside",
+      "Membership_ID": "M099",
+      "Membership_Type": "VIP",
+      "Revenue": 78.35
+    },
+    {
+      "Activity": "Yoga Class",
+      "Date": "2024-01-16",
+      "Duration (Minutes)": 120,
+      "Location": "Eastside",
+      "Membership_ID": "M100",
+      "Membership_Type": "Basic",
+      "Revenue": 57.06
+    }
+  ],
+  "json": {
+    "companies": [
+      {
+        "employees": [
+          {
+            "cashmoneh": 45000,
+            "hired_date": "2020-01-15",
+            "id": "E001",
+            "name": "Alice",
+            "role": "Personal Trainer"
+          },
+          {
+            "cashmoneh": 40000,
+            "hired_date": "2019-06-22",
+            "id": "E002",
+            "name": "Bob",
+            "role": "Group Fitness Instructor"
+          },
+          {
+            "cashmoneh": 70000,
+            "hired_date": "2021-03-12",
+            "id": "E003",
+            "name": "Eve",
+            "role": "Gym Manager"
+          },
+          {
+            "cashmoneh": 60000,
+            "hired_date": "2022-07-08",
+            "id": "E004",
+            "name": "Frank",
+            "role": "Sports Nutritionist"
+          },
+          {
+            "cashmoneh": 50000,
+            "hired_date": "2020-12-01",
+            "id": "E005",
+            "name": "Grace",
+            "role": "Marketing Specialist"
+          },
+          {
+            "cashmoneh": 42000,
+            "hired_date": "2018-11-15",
+            "id": "E006",
+            "name": "Hank",
+            "role": "Customer Service Lead"
+          },
+          {
+            "cashmoneh": 48000,
+            "hired_date": "2021-06-10",
+            "id": "E007",
+            "name": "Isla",
+            "role": "Event Coordinator"
+          },
+          {
+            "cashmoneh": 40000,
+            "hired_date": null,
+            "id": "E008",
+            "name": "Jake",
+            "role": "Equipment Maintenance Technician"
+          },
+          {
+            "cashmoneh": 47000,
+            "hired_date": "2019-09-18",
+            "id": "E009",
+            "name": "Karen",
+            "role": "Swimming Coach"
+          },
+          {
+            "cashmoneh": 42000,
+            "hired_date": "2020-05-22",
+            "id": "E010",
+            "name": "Leo",
+            "role": "Yoga Instructor"
+          },
+          {
+            "cashmoneh": 30000,
+            "hired_date": "2021-11-03",
+            "id": "E011",
+            "name": "Maya",
+            "role": "Receptionist"
+          },
+          {
+            "cashmoneh": 60000,
+            "hired_date": "2019-03-27",
+            "id": "E012",
+            "name": "Noah",
+            "role": "Aquatics Director"
+          },
+          {
+            "cashmoneh": 52000,
+            "hired_date": "2022-01-17",
+            "id": "E013",
+            "name": "Olivia",
+            "role": "Fitness Consultant"
+          },
+          {
+            "cashmoneh": 55000,
+            "hired_date": "2017-08-30",
+            "id": "E014",
+            "name": "Peter",
+            "role": "Tennis Coach"
+          },
+          {
+            "cashmoneh": 62000,
+            "hired_date": "2023-02-01",
+            "id": "E015",
+            "name": "Quinn",
+            "role": "Corporate Wellness Coordinator"
+          }
+        ],
+        "id": 1,
+        "industry": "Sports and Leisure",
+        "location": "North America",
+        "name": "FitPro",
+        "performance": {
+          "2023_Q1": {
+            "profit_margin": 12.5,
+            "revenue": 23000000
+          },
+          "2023_Q2": {
+            "profit_margin": 13.0,
+            "revenue": 25000000
+          }
+        },
+        "revenue": 95000000
+      },
+      {
+        "employees": [
+          {
+            "cashmoneh": 35000,
+            "id": "E101",
+            "name": "Carol",
+            "role": "Spa Therapist"
+          },
+          {
+            "cashmoneh": 60000,
+            "id": "E102",
+            "name": "Dave",
+            "role": "Physiotherapist"
+          },
+          {
+            "cashmoneh": 45000,
+            "hired_date": "2020-05-13",
+            "id": "E103",
+            "name": "Emma",
+            "role": "Wellness Coach"
+          },
+          {
+            "cashmoneh": 55000,
+            "hired_date": null,
+            "id": "E104",
+            "name": "Fiona",
+            "role": "Sports Therapist"
+          },
+          {
+            "cashmoneh": 40000,
+            "hired_date": "2021-04-22",
+            "id": "E105",
+            "name": "George",
+            "role": "Massage Therapist"
+          },
+          {
+            "cashmoneh": 38000,
+            "hired_date": "2019-10-03",
+            "id": "E106",
+            "name": "Holly",
+            "role": "Front Desk Manager"
+          },
+          {
+            "cashmoneh": 32000,
+            "hired_date": "2018-07-20",
+            "id": "E107",
+            "name": "Ian",
+            "role": "Lifeguard"
+          },
+          {
+            "cashmoneh": 42000,
+            "hired_date": "2020-09-14",
+            "id": "E108",
+            "name": "Julia",
+            "role": "Dance Instructor"
+          },
+          {
+            "cashmoneh": 45000,
+            "hired_date": "2015-11-10",
+            "id": "E109",
+            "name": "Kyle",
+            "role": "Climbing Instructor"
+          },
+          {
+            "cashmoneh": 46000,
+            "hired_date": "2017-01-25",
+            "id": "E110",
+            "name": "Lila",
+            "role": "Pilates Instructor"
+          },
+          {
+            "cashmoneh": 58000,
+            "hired_date": "2022-06-02",
+            "id": "E111",
+            "name": "Milo",
+            "role": "Recreation Manager"
+          },
+          {
+            "cashmoneh": 48000,
+            "hired_date": "2020-02-15",
+            "id": "E112",
+            "name": "Nora",
+            "role": "Aquatic Exercise Instructor"
+          },
+          {
+            "cashmoneh": 53000,
+            "hired_date": "2021-03-09",
+            "id": "E113",
+            "name": "Oscar",
+            "role": "Outdoor Adventure Guide"
+          },
+          {
+            "cashmoneh": 36000,
+            "hired_date": "2019-12-19",
+            "id": "E114",
+            "name": "Paula",
+            "role": "Membership Coordinator"
+          },
+          {
+            "cashmoneh": 70000,
+            "hired_date": "2023-04-15",
+            "id": "E115",
+            "name": "Quincy",
+            "role": "Wellness Retreat Planner"
+          }
+        ],
+        "id": 2,
+        "industry": "Sports and Leisure",
+        "location": "Europe",
+        "name": "RecreaLife",
+        "performance": {
+          "2023_Q1": {
+            "profit_margin": 10.0,
+            "revenue": null
+          },
+          "2023_Q2": {
+            "profit_margin": 11.5,
+            "revenue": 22000000
+          }
+        },
+        "revenue": null
+      }
+    ]
+  },
+  "pdf": {
+    "Sports and Leisure Quarterly Performance Report": [
+      {
+        "Memberships Sold": "300",
+        "Quarter": "Q1",
+        "Revenue (in $)": "2,100,000",
+        "Year": "2022"
+      },
+      {
+        "Memberships Sold": "320",
+        "Quarter": "Q2",
+        "Revenue (in $)": "2,300,000",
+        "Year": "2022"
+      },
+      {
+        "Memberships Sold": "340",
+        "Quarter": "Q3",
+        "Revenue (in $)": "2,500,000",
+        "Year": "2022"
+      },
+      {
+        "Memberships Sold": "360",
+        "Quarter": "Q4",
+        "Revenue (in $)": "2,700,000",
+        "Year": "2022"
+      },
+      {
+        "Memberships Sold": "320",
+        "Quarter": "Q1",
+        "Revenue (in $)": "2,300,000",
+        "Year": "2023"
+      },
+      {
+        "Memberships Sold": "400",
+        "Quarter": "Q2",
+        "Revenue (in $)": "2,500,000",
+        "Year": "2023"
+      },
+      {
+        "Memberships Sold": "350",
+        "Quarter": "Q3",
+        "Revenue (in $)": "2,700,000",
+        "Year": "2023"
+      },
+      {
+        "Memberships Sold": "450",
+        "Quarter": "Q4",
+        "Revenue (in $)": "2,900,000",
+        "Year": "2023"
+      },
+      {
+        "Memberships Sold": "420",
+        "Quarter": "Q1",
+        "Revenue (in $)": "3,100,000",
+        "Year": "2024"
+      },
+      {
+        "Memberships Sold": "500",
+        "Quarter": "Q2",
+        "Revenue (in $)": "3,300,000",
+        "Year": "2024"
+      }
+    ]
+  },
+  "pptx": {
+    "slide_0": {
+      "content": {
+        "Top Location": "Downtown",
+        "Total Memberships Sold": "1,520",
+        "Total Revenue": "$10,400,000",
+        "subtitle": "Key Highlights"
+      },
+      "title": "FitPro: Annual Summary 2023"
+    },
+    "slide_1": {
+      "table": [
+        {
+          "Avg Duration (Minutes)": "90",
+          "Memberships Sold": "320",
+          "Quarter": "Q1",
+          "Revenue (in $)": "2,300,000"
+        },
+        {
+          "Avg Duration (Minutes)": "95",
+          "Memberships Sold": "400",
+          "Quarter": "Q2",
+          "Revenue (in $)": "2,500,000"
+        },
+        {
+          "Avg Duration (Minutes)": "100",
+          "Memberships Sold": "350",
+          "Quarter": "Q3",
+          "Revenue (in $)": "2,700,000"
+        },
+        {
+          "Avg Duration (Minutes)": "92",
+          "Memberships Sold": "450",
+          "Quarter": "Q4",
+          "Revenue (in $)": "2,900,000"
+        }
+      ],
+      "title": "Quarterly Metrics"
+    },
+    "slide_2": {
+      "content": {
+        "Gym": "40%",
+        "Personal Training": "20%",
+        "Pool": "25%",
+        "Tennis Court": "15%",
+        "subtitle": "Revenue Distribution"
+      },
+      "title": "Revenue Breakdown by Activity"
+    }
+  }
+}

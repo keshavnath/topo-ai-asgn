@@ -1,0 +1,9 @@
+# Ignore the virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Ignore the Assignment PDF file in root
+*.pdf
+!datasets/*.pdf
